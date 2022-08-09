@@ -1,5 +1,5 @@
 T = int(input())
-for i, _ in enumerate(range(T), start=1):
+for t in range(1, T+1):
     N = int(input())
     num_list = list(map(int, input().split()))
 
@@ -9,4 +9,4 @@ for i, _ in enumerate(range(T), start=1):
             if max_diff <= num_a - num_b:
                 max_diff = num_a - num_b
 
-    print('#{} {}'.format(i, max_diff))
+    print('#{} {}'.format(t, max_diff))
