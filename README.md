@@ -12,3 +12,4 @@ Day03 : List </br>
 Day04 : List </br>
 Day05 : String </br>
 Day06 : String </br>
+Day07 : Stack </br>
