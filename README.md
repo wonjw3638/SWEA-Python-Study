@@ -2,9 +2,11 @@
 ## 👨‍👨‍👧‍👦 스터디원
 
 김지원, 유한별, 임두현, 박균탁
+
 <br>
 
 ## 💌 스터디 소개
+
 ✅ SWEA의 알고리즘 문제를 풀고, 답안을 공유하는 스터디
 
 ✅ 정해진 문제를 풀고, 답안을 업로드
@@ -15,9 +17,12 @@
 
 ## 📂 폴더 구조
 📂**DayNN**</br>
-    ㄴ 📂**nnnn. Problem Title**</br>
-        ㄴ 📄 *nnnn.Name.py*</br>
-        ㄴ 📄 *nnnn.Name.py*</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;ㄴ 📂**nnnn. Problem Title**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㄴ 📄 *nnnn.Name.py*</br>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ㄴ 📄 *nnnn.Name.py*</br>
 <br>
 
 ## 📌 커리큘럼
