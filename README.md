@@ -13,7 +13,13 @@
 
 ✅ 서로 답안을 비교, 풀이 방법 공유
 
-✅ SWEA A형 통과하기
+<br>
+
+## 🚩 스터디 목표
+
+✔ SWEA IM형 통과하기
+
+◻ SWEA A형 통과하기
 
 <br>
 
@@ -61,3 +67,13 @@ Day11 : Stack
 <br>
 
 Day12 : Queue
+
+<br>
+
+Day13 : IM Test
+
+<br>
+
+Day14 : Tree
+
+Day15 : Tree
